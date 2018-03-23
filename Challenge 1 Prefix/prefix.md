@@ -11,6 +11,7 @@ For example, the first covering prefix of the following 5−element array A:
   A[2] = 1
   A[3] = 0
   A[4] = 1
+  
 is 3, because sequence [ A[0], A[1], A[2], A[3] ] equal to [2, 2, 1, 0], contains all values that occur in array A.
 
 Write a function
@@ -26,6 +27,7 @@ For example, given array A such that
   A[2] = 1
   A[3] = 0
   A[4] = 1
+  
 the function should return 3, as explained above.
 
 Assume that:
