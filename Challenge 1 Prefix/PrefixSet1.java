@@ -17,3 +17,5 @@ class Solution {
         return index;
     }     
 }
+
+//Detected time complexity: O(N**2) or O(N**3)
